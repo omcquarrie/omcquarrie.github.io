@@ -7,7 +7,9 @@ permalink: /contact/
 <section class="page__content">
 	<h1>Contact</h1>
 
-	<p>Please use the form below to get in touch. Replace this blurb with your own informational text about response times, privacy, or what to include.</p>
+	<p>Please use the form below to get in touch with any inquiries. I am currently not taking custom orders, but I continuously update the stock section as projects are completed. Check back periodically as you may find some extremely good deals on new or lightly used equipment.</p>
+
+    <p>Please keep in mind I do this for fun, and do not guarantee perfection when it comes to boards or fins. I am constantly imroving my craft, so if you enjoy the equipment or have any constructive criticism, please reach out and tell me about it! I hope for this little arrangement to be a win-win for shaper and surfer.</p>
 
 	<form id="contact-form" class="contact-form" method="post" data-endpoint="https://formspree.io/f/xbdepgoj">
 		<div>
