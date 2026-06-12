@@ -3,7 +3,7 @@
 // This local file is the main stylesheet entrypoint for the site.
 // It wraps the Minimal Mistakes theme imports so you can safely
 // customize CSS without relying on the theme's internal asset path.
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 // Add custom overrides below this line.

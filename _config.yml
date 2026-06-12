@@ -28,6 +28,38 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://omcquarrie.github.io"
 twitter_username: 
 github_username: 
+minimal_mistakes_skin: "dirt"
+
+# folder includes
+include: ["_pages"]
+
+# defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _gallery
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+# portfolio settings
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
