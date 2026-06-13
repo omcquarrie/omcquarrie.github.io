@@ -3,8 +3,10 @@ layout: default
 title: About
 permalink: /about/
 ---
+# About Owen McQuarrie
 
-
+![]()
+![]()
 You can find the source code for this site as well as my other projects on GitHub:
 [omcquarrie](https://github.com/omcquarrie)
 
