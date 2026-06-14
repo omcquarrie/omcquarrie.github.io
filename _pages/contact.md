@@ -38,8 +38,6 @@ permalink: /contact/
 
 		<div id="cf-status" role="status" aria-live="polite" style="margin-top:1rem"></div>
 	</form>
-
-	<p class="muted">Note: Replace the form endpoint in the form's <code>data-endpoint</code> attribute with your Formspree form URL (see Formspree.io). The page uses client-side JavaScript to sanitize inputs and POST the form data so Formspree can forward it to your email.</p>
 </section>
 
 <script src="{{ '/assets/js/contact.js' | relative_url }}"></script>
