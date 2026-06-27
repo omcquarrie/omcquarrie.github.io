@@ -33,6 +33,10 @@ minimal_mistakes_skin: "dirt"
 # folder includes
 include: ["_pages"]
 
+# logos
+logo: "/assets/images/web-app-manifest-512x512.png"
+
+
 # defaults
 defaults:
   # _posts

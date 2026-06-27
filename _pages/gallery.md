@@ -11,6 +11,7 @@ gallery:
     - image_path: assets/gallery/ph3.jpg
     - image_path: assets/gallery/ph4.JPEG
     - image_path: assets/gallery/ph5.jpg
+    - image_path: assets/gallery/ph6.JPG
 ---
 
 {% include gallery layout=' ' %}
